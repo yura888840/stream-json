@@ -5,6 +5,9 @@
     },
     "rule2": {
       "upload": true
+    },
+    "rule2": {
+      "need_update": false
     }
   }
 }
