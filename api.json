@@ -8,6 +8,9 @@
     },
     "rule3": {
       "need_update": false
+    },
+    "rule4": {
+      "status_update": false
     }
   }
 }
