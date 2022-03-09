@@ -11,6 +11,9 @@
     },
     "rule4": {
       "status_update": false
+    },
+    "rule5": {
+      "update_dates": true
     }
   }
 }
